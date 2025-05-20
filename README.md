@@ -38,7 +38,12 @@
 <p align="left">Olá, me chamo mauricio oliveira da costa, estudo na EEEP Edson Queiroz no curso de informática.<br>gosto muito de desenvolver projetos front-end, mas também tenho interesse em back-end.<br>meu maior dominio é css, mas também tenho uma base em javascript puro, react  e php (no php é só a base mesmo)</p>
 
 ###
-[Projeto-social](https://mauriciooliveiradacosta.github.io/projeto-android/):projeto que desenvolvi durante aulas de html e css
+[Projeto-social](https://mauriciooliveiradacosta.github.io/projeto-social/):projeto que desenvolvi durante aulas de html e css
+[Projeto-duellinks](https://mauriciooliveiradacosta.github.io/projeto-android/): projeto sobre yu-gi-oh
+[Projeto-corderl](https://mauriciooliveiradacosta.github.io/projeto-cordel/):projeto desenvolvido com a temática de cordel
+[Projeto-login](https://mauriciooliveiradacosta.github.io/projeto-android/): protótipo de uma tela de login
+[Projeto-android](https://mauriciooliveiradacosta.github.io/projeto-android/):site sobre a origem do mascote do Android
+
 
 ###
 <!--
