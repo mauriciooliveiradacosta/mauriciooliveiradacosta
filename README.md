@@ -38,6 +38,9 @@
 <p align="left">Olá, me chamo mauricio oliveira da costa, estudo na EEEP Edson Queiroz no curso de informática.<br>gosto muito de desenvolver projetos front-end, mas também tenho interesse em back-end.<br>meu maior dominio é css, mas também tenho uma base em javascript puro, react  e php (no php é só a base mesmo)</p>
 
 ###
+[Projeto-social](https://mauriciooliveiradacosta.github.io/projeto-android/):projeto que desenvolvi durante aulas de html e css
+
+###
 <!--
 **mauriciooliveiradacosta/mauriciooliveiradacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
